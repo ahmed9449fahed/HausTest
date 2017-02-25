@@ -18,7 +18,7 @@ namespace ClassLibrary1
         [Test]
         public void SecondUnitTest()
         {
-            hi
+            
         }
     }
 }
