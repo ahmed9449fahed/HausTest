@@ -12,3 +12,17 @@ c:\users\afa\documents\visual studio 2015\Projects\BuildServerHausTest\BuildServ
 c:\users\afa\documents\visual studio 2015\Projects\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.csproj.GenerateResource.Cache
 c:\users\afa\documents\visual studio 2015\Projects\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.exe
 c:\users\afa\documents\visual studio 2015\Projects\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.pdb
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Debug\BuildServerHausTest.exe.config
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.exe
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.pdb
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Debug\BuildServerHausTest.exe
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Debug\BuildServerHausTest.pdb
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\MainWindow.g.cs
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\App.g.cs
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest_MarkupCompile.cache
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest_MarkupCompile.lref
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\MainWindow.baml
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.g.resources
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.Properties.Resources.resources
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.csproj.GenerateResource.Cache
