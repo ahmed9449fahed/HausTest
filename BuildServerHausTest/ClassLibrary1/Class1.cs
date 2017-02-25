@@ -9,5 +9,10 @@ namespace ClassLibrary1
     [TestFixture]
     public class Class1
     {
+        [Test]
+        public void FirstUnitTest()
+        {
+            
+        }
     }
 }
