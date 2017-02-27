@@ -5,3 +5,10 @@ C:\Users\afa\Documents\HausTest\BuildServerHausTest\ClassLibrary1\bin\Release\nu
 C:\Users\afa\Documents\HausTest\BuildServerHausTest\ClassLibrary1\obj\Release\ClassLibrary1.csprojResolveAssemblyReference.cache
 C:\Users\afa\Documents\HausTest\BuildServerHausTest\ClassLibrary1\obj\Release\ClassLibrary1.dll
 C:\Users\afa\Documents\HausTest\BuildServerHausTest\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\afa\HausTest\BuildServerHausTest\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\afa\HausTest\BuildServerHausTest\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\afa\HausTest\BuildServerHausTest\ClassLibrary1\bin\Release\nunit.framework.dll
+C:\Users\afa\HausTest\BuildServerHausTest\ClassLibrary1\bin\Release\nunit.framework.xml
+C:\Users\afa\HausTest\BuildServerHausTest\ClassLibrary1\obj\Release\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\afa\HausTest\BuildServerHausTest\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\afa\HausTest\BuildServerHausTest\ClassLibrary1\obj\Release\ClassLibrary1.pdb
