@@ -9,6 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using DevExpress.Xpf.LayoutControl;
 using System;
 using System.Diagnostics;
 using System.Windows;
