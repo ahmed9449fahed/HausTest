@@ -14,3 +14,17 @@ C:\Users\afa\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildS
 C:\Users\afa\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.exe.licenses
 C:\Users\afa\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.exe
 C:\Users\afa\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.pdb
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Release\BuildServerHausTest.exe
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Release\BuildServerHausTest.pdb
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\MainWindow.g.cs
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\App.g.cs
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest_MarkupCompile.cache
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest_MarkupCompile.lref
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\MainWindow.baml
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.g.resources
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.Properties.Resources.resources
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.csproj.GenerateResource.Cache
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.exe.licenses
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.exe
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Release\BuildServerHausTest.pdb
