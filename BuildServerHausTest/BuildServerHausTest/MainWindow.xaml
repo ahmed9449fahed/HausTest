@@ -8,7 +8,7 @@
         xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"
         xmlns:navigation="http://schemas.devexpress.com/winfx/2008/xaml/windowsui/navigation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
     <Grid>
         <DockPanel LastChildFill="true">
             <dxnav:TileNavPane DockPanel.Dock="Top" Height="60" VerticalAlignment="Top" Background="CadetBlue">
