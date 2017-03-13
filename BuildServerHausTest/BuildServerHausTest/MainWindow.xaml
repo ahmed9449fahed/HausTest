@@ -1,18 +1,33 @@
-﻿<Window x:Class="BuildServerHausTest.MainWindow"
+﻿<Window xmlns:dxnav="http://schemas.devexpress.com/winfx/2008/xaml/navigation"  x:Class="BuildServerHausTest.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BuildServerHausTest"
+        xmlns:dxwui="http://schemas.devexpress.com/winfx/2008/xaml/windowsui"
+        xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"
+        xmlns:navigation="http://schemas.devexpress.com/winfx/2008/xaml/windowsui/navigation"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="40"/>
-            <RowDefinition Height="30"/>
-        </Grid.RowDefinitions>
-        <TextBlock Grid.Row="0">Hallo</TextBlock>
-        <TextBlock Grid.Row="1">Ricardo test </TextBlock>
-        
+        <DockPanel LastChildFill="true">
+            <dxnav:TileNavPane DockPanel.Dock="Top" Height="60" VerticalAlignment="Top" Background="CadetBlue">
+
+
+                <dxnav:TileNavPane.NavButtons>
+                    <dxnav:NavButton Glyph="Image/home.png" />
+                    <dxnav:NavButton  Glyph="Image/help-icon.png" Content="Hilfe"/>
+                    <!--<dxnav:NavButton Glyph="../../XMLImage/Very-Basic-About-icon.png" Content="Info" Command="{Binding GoToInfoPage}"/>-->
+                    <dxnav:NavButton HorizontalAlignment="Right" Glyph="Image/softparklogo.png"/>
+                </dxnav:TileNavPane.NavButtons>
+            </dxnav:TileNavPane>
+            <dxwui:NavigationFrame BackNavigationMode="PreviousScreen"
+                                   DockPanel.Dock="Bottom">
+                <dxmvvm:Interaction.Behaviors>
+                    <navigation:FrameNavigationService />
+                </dxmvvm:Interaction.Behaviors>
+                <Image Source="Image/15-spectacular-photos-of-pond-hockey-being-played-in-freezing-weather.jpg" Stretch="Fill"></Image>
+            </dxwui:NavigationFrame>
+        </DockPanel>
     </Grid>
 </Window>
