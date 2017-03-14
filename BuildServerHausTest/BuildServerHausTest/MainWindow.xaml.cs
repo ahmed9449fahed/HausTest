@@ -23,6 +23,7 @@ namespace BuildServerHausTest
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new MainWindowsmodel();
         }
     }
 }

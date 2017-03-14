@@ -15,8 +15,8 @@
 
 
                 <dxnav:TileNavPane.NavButtons>
-                    <dxnav:NavButton Glyph="Image/home.png" />
-                    <dxnav:NavButton  Glyph="Image/help-icon.png" Content="Hilfe"/>
+                    <dxnav:NavButton Glyph="Image/home.png" Command="{Binding TestView}" />
+                    <dxnav:NavButton  Glyph="Image/help-icon.png" Content="Hilfe" Command="{Binding TestView2}"/>
                     <!--<dxnav:NavButton Glyph="../../XMLImage/Very-Basic-About-icon.png" Content="Info" Command="{Binding GoToInfoPage}"/>-->
                     <dxnav:NavButton HorizontalAlignment="Right" Glyph="Image/softparklogo.png"/>
                 </dxnav:TileNavPane.NavButtons>

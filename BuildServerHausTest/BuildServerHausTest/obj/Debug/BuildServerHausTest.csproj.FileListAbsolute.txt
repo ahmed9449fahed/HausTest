@@ -59,3 +59,8 @@ C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Debu
 C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
 C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
 C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.exe.licenses
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\BuildServerHausTest.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\UIL\TestView.baml
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\UIL\TestView.g.cs
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\UIL\HIlfeUIL\TestView2.baml
+C:\Users\afa\Documents\HausTest\BuildServerHausTest\BuildServerHausTest\obj\Debug\UIL\HIlfeUIL\TestView2.g.cs
